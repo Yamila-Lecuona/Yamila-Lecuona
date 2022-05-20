@@ -1,0 +1,21 @@
+{
+    "name": "yamila-lecuona",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "compile:sass": "sass --watch scss/style.scss css/style.css"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yamila-Lecuona/Yamila-Lecuona.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Yamila-Lecuona/Yamila-Lecuona/issues"
+    },
+    "homepage": "https://github.com/Yamila-Lecuona/Yamila-Lecuona#readme"
+}
